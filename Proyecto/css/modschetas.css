@@ -5,3 +5,12 @@ body{
         background-size: cover;
         
 }
+
+.carousel img{
+        object-fit: cover;
+        max-height: 600px;
+}
+
+.card-deck{
+        margin-top: 50px;
+}

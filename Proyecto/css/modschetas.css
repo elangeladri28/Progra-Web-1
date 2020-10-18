@@ -1,8 +1,7 @@
-body {
- 
-}
-
-.imagenfondo{
-    background-image: url(https://cdn.wallpapersafari.com/65/44/c1xNqp.jpg);
-    
+body{
+        
+        background-image: url(https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+        background-repeat: repeat-y; 
+        background-size: cover;
+        
 }

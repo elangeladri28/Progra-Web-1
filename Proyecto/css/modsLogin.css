@@ -1,7 +1,13 @@
 body{
-    background-image: url(https://images.pexels.com/photos/4009355/pexels-photo-4009355.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-image: url(https://images.pexels.com/photos/1544774/pexels-photo-1544774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
         background-repeat: repeat-y; 
         background-size: cover;
         
         
+}
+
+h1{
+    margin-top: 50px;
+    color: white;
+    margin-left: 10%;
 }

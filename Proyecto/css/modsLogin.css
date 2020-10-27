@@ -11,3 +11,8 @@ h1{
     color: white;
     margin-left: 10%;
 }
+
+.form-group{
+    margin-left:24%;
+        width: 50%;
+}

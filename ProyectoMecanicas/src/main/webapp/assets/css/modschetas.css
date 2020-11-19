@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 12, 2020, 11:47:51 PM
+    Author     : adria
+*/
+
+body{
+        
+        background-image: url(https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+        background-repeat: repeat-y; 
+        background-size: cover;
+        
+}
+
+.carousel img{
+        object-fit: cover;
+        max-height: 600px;
+        
+}
+
+.card-deck{
+        margin-top: 50px;
+}

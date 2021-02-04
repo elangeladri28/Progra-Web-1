@@ -10,12 +10,24 @@ package com.pw.dbconnection.models;
  * @author magoc
  */
 public class UserModel {
-
+private int IDUser;
     private String userName;
     private String password;
     private String urlImage;
 
     public UserModel() {
+    }
+
+    public UserModel(int IDUser) {
+        this.IDUser = IDUser;
+    }
+
+    public int getIDUser() {
+        return IDUser;
+    }
+
+    public void setIDUser(int IDUser) {
+        this.IDUser = IDUser;
     }
 
     public UserModel(String userName, String urlImage) {
